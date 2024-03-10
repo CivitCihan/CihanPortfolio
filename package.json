@@ -1,4 +1,3 @@
-"@babel/plugin-proposal-private-property-in-object": "^7.16.0",
 {
   "private": true,
   "name": "masterPortfolio",
@@ -38,6 +37,7 @@
     "styletron-react": "^5.2.7"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
     "dotenv": "^6.2.0",
